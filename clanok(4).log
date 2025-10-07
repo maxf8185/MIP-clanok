@@ -351,7 +351,7 @@ Package rerunfilecheck Info: File `clanok(4).out' has not changed.
 Here is how much of TeX's memory you used:
  10190 strings out of 468130
  156262 string characters out of 5447447
- 581567 words of memory out of 5000000
+ 581570 words of memory out of 5000000
  38678 multiletter control sequences out of 15000+600000
  640163 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -378,9 +378,9 @@ MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\Максим\A
 ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\�
 �аксим\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk
 >
-Output written on clanok(4).pdf (2 pages, 111429 bytes).
+Output written on clanok(4).pdf (2 pages, 113204 bytes).
 PDF statistics:
- 414 PDF objects out of 1000 (max. 8388607)
+ 420 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
  65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
