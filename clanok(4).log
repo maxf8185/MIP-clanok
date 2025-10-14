@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.30)  7 OCT 2025 16:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.30)  14 OCT 2025 15:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -243,13 +243,10 @@ File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count298
 ) (clanok(4).aux
 Package babel Info: 'slovak' activates 'slovak' shorthands.
-(babel)             Reported on input line 11.
+(babel)             Reported on input line 14.
 
 
 LaTeX Warning: Label `nejaka' multiply defined.
-
-
-LaTeX Warning: Label `fig:diagram1' multiply defined.
 
 
 LaTeX Warning: Label `dolezita' multiply defined.
@@ -318,53 +315,49 @@ File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 34.
-<tabulka.pdf, id=52, 431.6125pt x 361.35pt>
+<tabulka.pdf, id=51, 431.6125pt x 361.35pt>
 File: tabulka.pdf Graphic file (type pdf)
 <use tabulka.pdf>
-Package pdftex.def Info: tabulka.pdf  used on input line 72.
-(pdftex.def)             Requested size: 302.12668pt x 252.94327pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<tabulka1.pdf, id=53, 421.575pt x 351.3125pt>
+Package pdftex.def Info: tabulka.pdf  used on input line 64.
+(pdftex.def)             Requested size: 155.24895pt x 129.97562pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 66.
+<tabulka1.pdf, id=52, 421.575pt x 351.3125pt>
 File: tabulka1.pdf Graphic file (type pdf)
 <use tabulka1.pdf>
-Package pdftex.def Info: tabulka1.pdf  used on input line 87.
-(pdftex.def)             Requested size: 295.10048pt x 245.91707pt.
+Package pdftex.def Info: tabulka1.pdf  used on input line 70.
+(pdftex.def)             Requested size: 155.24895pt x 129.37247pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 95.
+
+LaTeX Warning: Citation `Coplien:MPD' on page 1 undefined on input line 100.
+
+
+LaTeX Warning: Citation `Czarnecki:Staged' on page 1 undefined on input line 10
+0.
+
+
+LaTeX Warning: Citation `Czarnecki:Progress' on page 1 undefined on input line 
+100.
+
+
+LaTeX Warning: Citation `PLP-Framework' on page 1 undefined on input line 100.
+
 
 
 [1
 
 {C:/Users/Максим/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-
-LaTeX Warning: Citation `Coplien:MPD' on page 2 undefined on input line 97.
-
-
-LaTeX Warning: Citation `Czarnecki:Staged' on page 2 undefined on input line 97
-.
-
-
-LaTeX Warning: Citation `Czarnecki:Progress' on page 2 undefined on input line 
-97.
-
-
-LaTeX Warning: Citation `PLP-Framework' on page 2 undefined on input line 97.
-
-
-
-Package babel Info: 'slovak' activates 'slovak' shorthands.
-(babel)             Reported on input line 117.
-[2 <./tabulka.pdf>]
 No file clanok(4).bbl.
 
 
-[3 <./tabulka1.pdf>] (clanok(4).aux)
+Package babel Info: 'slovak' activates 'slovak' shorthands.
+(babel)             Reported on input line 157.
+[2 <./tabulka.pdf> <./tabulka1.pdf>]
+
+[3] (clanok(4).aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -380,25 +373,25 @@ Package rerunfilecheck Info: File `clanok(4).out' has not changed.
 (rerunfilecheck)             Checksum: 8EDA82C66620E6747D900D9A9E86BB07;1351.
  ) 
 Here is how much of TeX's memory you used:
- 10217 strings out of 468130
- 156722 string characters out of 5447447
- 580694 words of memory out of 5000000
- 38699 multiletter control sequences out of 15000+600000
+ 10218 strings out of 468130
+ 156768 string characters out of 5447447
+ 582663 words of memory out of 5000000
+ 38700 multiletter control sequences out of 15000+600000
  640163 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,380b,592s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Максим\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/d
-pi600\csr6.pk> <C:\Users\Максим\AppData\Local\MiKTeX\fonts/pk/ljfour/publ
-ic/csfonts/dpi600\csr8.pk> <C:\Users\Максим\AppData\Local\MiKTeX\fonts/pk
-/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\Максим\AppData\Local\Mi
-KTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Максим\App
-Data\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C:\Users\М
-аксим\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csti10.pk
-> <C:\Users\Максим\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dp
-i600\csbx10.pk> <C:\Users\Максим\AppData\Local\MiKTeX\fonts/pk/ljfour/pub
-lic/csfonts/dpi600\csr7.pk> <C:\Users\Максим\AppData\Local\MiKTeX\fonts/p
-k/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\Максим\AppData\Local\
-MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\Максим\
+ 75i,8n,79p,345b,560s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Максим\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
+00\tcrm1000.pk> <C:\Users\Максим\AppData\Local\MiKTeX\fonts/pk/ljfour/pub
+lic/csfonts/dpi600\csbx12.pk> <C:\Users\Максим\AppData\Local\MiKTeX\fonts
+/pk/ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\Максим\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\Макси�
+�\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr6.pk> <C:\Users
+\Максим\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.p
+k> <C:\Users\Максим\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
+00\tcrm0600.pk> <C:\Users\Максим\AppData\Local\MiKTeX\fonts/pk/ljfour/pub
+lic/csfonts/dpi600\csti10.pk> <C:\Users\Максим\AppData\Local\MiKTeX\fonts
+/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\Максим\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr7.pk> <C:\Users\Максим\
 AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\
 Максим\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.
 pk> <C:\Users\Максим\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/
@@ -409,9 +402,9 @@ MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\Максим\A
 ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\�
 �аксим\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk
 >
-Output written on clanok(4).pdf (3 pages, 142178 bytes).
+Output written on clanok(4).pdf (3 pages, 136493 bytes).
 PDF statistics:
- 498 PDF objects out of 1000 (max. 8388607)
+ 482 PDF objects out of 1000 (max. 8388607)
  24 named destinations out of 1000 (max. 500000)
  99 words of extra memory for PDF output out of 10000 (max. 10000000)
 
