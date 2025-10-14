@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.30)  14 OCT 2025 15:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.30)  14 OCT 2025 15:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -233,14 +233,21 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip51
 )
-(D:\MiKTeX\tex/latex/cite\cite.sty
+(D:\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen156
+\WF@size=\dimen157
+\c@WF@wrappedlines=\count298
+\WF@box=\box53
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+) (D:\MiKTeX\tex/latex/cite\cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
 (D:\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count298
+\l__color_backend_stack_int=\count299
 ) (clanok(4).aux
 Package babel Info: 'slovak' activates 'slovak' shorthands.
 (babel)             Reported on input line 16.
@@ -254,39 +261,39 @@ LaTeX Warning: Label `dolezita' multiply defined.
 )
 \openout1 = `clanok(4).aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
  (D:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count299
-\scratchdimen=\dimen156
-\scratchbox=\box53
-\nofMPsegments=\count300
-\nofMParguments=\count301
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count302
-\MPscratchDim=\dimen157
-\MPnumerator=\count303
-\makeMPintoPDFobject=\count304
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count300
+\scratchdimen=\dimen158
+\scratchbox=\box54
+\nofMPsegments=\count301
+\nofMParguments=\count302
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count303
+\MPscratchDim=\dimen159
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
+\everyMPtoPDFconversion=\toks22
 ) (D:\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -295,61 +302,86 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (D:\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 31.
+Package hyperref Info: Link coloring OFF on input line 32.
  (clanok(4).out) (clanok(4).out)
 \@outlinefile=\write3
 \openout3 = `clanok(4).out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 34.
+(Font)              <17.28> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 34.
+(Font)              <12> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 34.
+(Font)              <8> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 34.
+(Font)              <6> on input line 35.
 LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 
-34.
+35.
  (D:\MiKTeX\tex/cslatex/base\il2cmtt.fd
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 34.
+(Font)              <5> on input line 35.
 <tabulka.pdf, id=51, 431.6125pt x 361.35pt>
 File: tabulka.pdf Graphic file (type pdf)
 <use tabulka.pdf>
-Package pdftex.def Info: tabulka.pdf  used on input line 65.
+Package pdftex.def Info: tabulka.pdf  used on input line 66.
 (pdftex.def)             Requested size: 431.61143pt x 361.34912pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 67.
+(Font)              <7> on input line 68.
 <tabulka1.pdf, id=52, 421.575pt x 351.3125pt>
 File: tabulka1.pdf Graphic file (type pdf)
 <use tabulka1.pdf>
-Package pdftex.def Info: tabulka1.pdf  used on input line 71.
+Package pdftex.def Info: tabulka1.pdf  used on input line 72.
 (pdftex.def)             Requested size: 295.10048pt x 245.91707pt.
 
-Overfull \hbox (78.14241pt too wide) in paragraph at lines 71--72
+Overfull \hbox (78.14241pt too wide) in paragraph at lines 72--73
  [][] 
  []
 
+<STU-FIIT-nfnh.png, id=57, 583.17876pt x 128.48pt>
+File: STU-FIIT-nfnh.png Graphic file (type png)
+<use STU-FIIT-nfnh.png>
+Package pdftex.def Info: STU-FIIT-nfnh.png  used on input line 101.
+(pdftex.def)             Requested size: 126.55945pt x 27.88142pt.
 
-LaTeX Warning: Citation `Coplien:MPD' on page 1 undefined on input line 98.
 
 
-LaTeX Warning: Citation `Czarnecki:Staged' on page 1 undefined on input line 98
-.
+LaTeX Warning: Citation `Coplien:MPD' on page 1 undefined on input line 105.
+
+
+LaTeX Warning: Citation `Czarnecki:Staged' on page 1 undefined on input line 10
+5.
 
 
 LaTeX Warning: Citation `Czarnecki:Progress' on page 1 undefined on input line 
-98.
+105.
 
 
-LaTeX Warning: Citation `PLP-Framework' on page 1 undefined on input line 98.
+LaTeX Warning: Citation `PLP-Framework' on page 1 undefined on input line 105.
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+\IL2/cmr/m/n/10 �e prob-l�m
+ []
 
 
-Underfull \hbox (badness 1681) in paragraph at lines 129--130
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+\IL2/cmr/m/n/10 vlastne ne-jes-
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 105--106
+\IL2/cmr/m/n/10 do-k�-zan�, �e to
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 105--106
+\IL2/cmr/m/n/10 Na-priek tomu, aj dnes na webe na-ra-z�me na
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 136--137
  []\IL2/cmr/bx/n/10 Ve�mi d�-le-�it� po-zn�mka.[] \IL2/cmr/m/n/10 Nie-kedy je p
 o-
  []
@@ -360,12 +392,12 @@ No file clanok(4).bbl.
 [1{C:/Users/Максим/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
-]
+ <./STU-FIIT-nfnh.png>]
 
 
 
 Package babel Info: 'slovak' activates 'slovak' shorthands.
-(babel)             Reported on input line 155.
+(babel)             Reported on input line 162.
 [2
 
  <./tabulka.pdf> <./tabulka1.pdf>] (clanok(4).aux)
@@ -384,13 +416,13 @@ Package rerunfilecheck Info: File `clanok(4).out' has not changed.
 (rerunfilecheck)             Checksum: 8EDA82C66620E6747D900D9A9E86BB07;1351.
  ) 
 Here is how much of TeX's memory you used:
- 10216 strings out of 468130
- 156715 string characters out of 5447447
- 588624 words of memory out of 5000000
- 38699 multiletter control sequences out of 15000+600000
+ 10303 strings out of 468130
+ 158068 string characters out of 5447447
+ 590911 words of memory out of 5000000
+ 38781 multiletter control sequences out of 15000+600000
  639586 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,345b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,380b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Максим\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/d
 pi600\cstt10.pk> <C:\Users\Максим\AppData\Local\MiKTeX\fonts/pk/ljfour/pu
 blic/csfonts/dpi600\cssl10.pk> <C:\Users\Максим\AppData\Local\MiKTeX\font
@@ -411,9 +443,9 @@ blic/csfonts/dpi600\csr9.pk> <C:\Users\Максим\AppData\Local\MiKTeX\fonts/
 pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\Максим\AppData\Local\
 MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Максим\A
 ppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
-Output written on clanok(4).pdf (2 pages, 136491 bytes).
+Output written on clanok(4).pdf (2 pages, 142740 bytes).
 PDF statistics:
- 476 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
- 99 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 482 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 104 words of extra memory for PDF output out of 10000 (max. 10000000)
 

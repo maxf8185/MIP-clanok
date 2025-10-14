@@ -9,6 +9,7 @@
 \usepackage{graphicx}
 \usepackage{url} % príkaz \url na formátovanie URL
 \usepackage{hyperref} % odkazy v texte budú aktívne (pri niektorých triedach dokumentov spôsobuje posun textu)
+\usepackage{wrapfig}
 
 \usepackage{cite}
 %\usepackage{times}
@@ -63,7 +64,7 @@ Hello world, to je 1 časť
 \begin{minipage}{0.48\textwidth}
 \centering
 \includegraphics[angle=15, width=0.8\textwidth]{tabulka.pdf}
-\caption{diagram 1\%}
+\caption{diagram 1}
 \end{minipage}
 \hfill
 \begin{minipage}{0.48\textwidth}
@@ -94,6 +95,12 @@ Aj text môže byť prezentovaný ako obrázok. Stane sa z neho označný pláva
 \section{Iná časť} \label{ina}
 
 Základným problémom je teda\ldots{} Najprv sa pozrieme na nejaké vysvetlenie (časť~\ref{ina:nejake}), a potom na ešte nejaké (časť~\ref{ina:nejake}).\footnote{Niekedy môžete potrebovať aj poznámku pod čiarou.}
+
+\begin{wrapfigure}{r}{0.3\textwidth}  
+\centering
+\includegraphics[width=0.28\textwidth]{STU-FIIT-nfnh.png}
+\caption{FIIT STU}
+\end{wrapfigure}
 
 Môže sa zdať, že problém vlastne nejestvuje\cite{Coplien:MPD}, ale bolo dokázané, že to tak nie je~\cite{Czarnecki:Staged, Czarnecki:Progress}. Napriek tomu, aj dnes na webe narazíme na všelijaké pochybné názory\cite{PLP-Framework}. Dôležité veci možno \emph{zdôrazniť kurzívou}.
 
